@@ -1,0 +1,47 @@
+# Generated files
+bin/
+gen/
+out/
+target/
+captures/
+
+# IntelliJ IDEA
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle
+.gradle
+**/build/
+
+# Windows thumbnail
+Thumbs.db
+
+# macOS files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# VS Code
+.settings/
+.vscode/
